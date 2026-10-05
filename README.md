@@ -136,3 +136,4 @@ Extraídos diretamente da logo oficial do Studio Lar & Luz e referências:
 | `/robots.txt` & `/sitemap.xml` | Diretrizes de indexação para motores de busca |
 # studio-lar-luz-beta
 # studio-lar-luz
+# studio-lar-luz
