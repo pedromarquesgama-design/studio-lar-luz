@@ -1,0 +1,8 @@
+node_modules
+.next/
+out/
+.env*.local
+*.pem
+.agents/
+graphify-out/
+tsconfig.tsbuildinfo

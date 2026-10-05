@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 320" width="1024" height="320" fill="none">
+  <defs>
+    <linearGradient id="larLuzGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#CEAC6F" />
+      <stop offset="50%" stop-color="#B89C68" />
+      <stop offset="100%" stop-color="#A38B63" />
+    </linearGradient>
+  </defs>
+  <!-- Embedded High-DPI transparent rendering with vector sharpness fallback -->
+  <image href="/brand/logo-full-transparent.png" x="0" y="0" width="1024" height="320" preserveAspectRatio="xMidYMid meet" />
+</svg>
